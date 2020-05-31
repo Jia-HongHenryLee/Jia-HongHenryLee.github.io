@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jia-honghenrylee.github.io/awards/</loc>
+  </url>
+  
+  <url>
     <loc>https://jia-honghenrylee.github.io/authors/</loc>
   </url>
   
@@ -20,6 +24,10 @@
   
   <url>
     <loc>https://jia-honghenrylee.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jia-honghenrylee.github.io/project/</loc>
   </url>
   
   <url>
