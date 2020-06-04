@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jia-Hong Henry Lee</title>
-    <link>https://jia-honghenrylee.github.io/</link>
-      <atom:link href="https://jia-honghenrylee.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jia-Hong Henry Lee</description>
+    <title>CVAI | Jia-Hong Henry Lee</title>
+    <link>https://jia-honghenrylee.github.io/tag/cvai/</link>
+      <atom:link href="https://jia-honghenrylee.github.io/tag/cvai/index.xml" rel="self" type="application/rss+xml" />
+    <description>CVAI</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jia-Hong Henry Lee 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jia-honghenrylee.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Jia-Hong Henry Lee</title>
-      <link>https://jia-honghenrylee.github.io/</link>
+      <title>CVAI</title>
+      <link>https://jia-honghenrylee.github.io/tag/cvai/</link>
     </image>
-    
-    <item>
-      <title>Awards &amp; Honors &amp; Certificates</title>
-      <link>https://jia-honghenrylee.github.io/awards/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jia-honghenrylee.github.io/awards/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>IVCLab Deep Learning Toolkit</title>
