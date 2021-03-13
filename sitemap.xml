@@ -1,62 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://jia-honghenrylee.github.io/awards/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/tag/cvai/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/project/ivclabdl-toolkit/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/project/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/tags/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/author/jia-hong-lee-henry/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jia-honghenrylee.github.io/talk/</loc>
   </url>
-  
 </urlset>
